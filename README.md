@@ -25,13 +25,13 @@ O objetivo é fornecer à comunidade uma forma clara e intuitiva de entender a r
 Este gráfico permite a visualização consolidada dos dados, com um menu para selecionar o ano desejado.
 
 *(**Instrução:** Tire um print do seu gráfico interativo, salve na pasta `images/` e substitua o link abaixo)*
-`![Dashboard Interativo](images/grafico_interativo.png)`
+![Dashboard Interativo](images/analise_covid.png)
 
 ### Performance do Modelo LSTM
 Este gráfico compara os valores reais de casos confirmados com as previsões geradas pelo modelo no conjunto de teste.
 
 *(**Instrução:** Salve a imagem do gráfico do modelo, salve na pasta `images/` e substitua o link abaixo)*
-`![Performance do Modelo LSTM](images/resultado_lstm.png)`
+![Performance do Modelo LSTM](images/modelo_preditivo_covid.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -63,8 +63,9 @@ O modelo LSTM treinado alcançou uma performance promissora para a previsão de 
 ## ✍️ Autora
 
 * **Denise Jeannie Marti**
-    * LinkedIn: `[LINK-PARA-SEU-LINKEDIN]`
-    * GitHub: `[LINK-PARA-SEU-GITHUB]`
+    * [LinkedIn](https://www.linkedin.com/in/denise-marti/)
+    * [GitHub](https://github.com/djeannie29/)
+
 
 ## 📄 Licença
 
